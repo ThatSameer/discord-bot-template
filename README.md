@@ -1,11 +1,11 @@
 
 # discord-bot-template
 
-A template for using a Discord bot with advanced event/commands handlers already created.
+A ready made template for using a Discord bot with advanced commands/events handlers already created.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This template was made using [CodeLyon's](https://www.youtube.com/c/CodeLyon) interpretation of advanced commands/events handlers.
 
 ## Getting Started
 
@@ -29,18 +29,20 @@ npm install discord.js
 
 ### Using this template
 
-* In the [index.js](https://github.com/ThatSameer/discord-bot-template/blob/main/index.js) file, assign your Discord bot token to 'token' using your preferred method. It is generally not recommended to store your token in plain text. Treat your token like your password!
+* In the [index.js](https://github.com/ThatSameer/discord-bot-template/blob/main/index.js) file, assign your Discord bot token to 'token' using your preferred method. It is generally **not** recommended to store your token in plain text. Treat your token like your password!
 ```js
 client.login(token)
 ```
+* The main area of interest will be the [commands](https://github.com/ThatSameer/discord-bot-template/tree/main/commands) and [events](https://github.com/ThatSameer/discord-bot-template/tree/main/events) folders. Some examples are already included
 
 
 ## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+* Recommended reading
+   * [Command handling](https://discordjs.guide/creating-your-bot/command-handling.html#command-handling)
+   * [Event handling](https://discordjs.guide/creating-your-bot/event-handling.html#event-handling)
+* Recommended videos
+   * [CodeLyon](https://youtube.com/playlist?list=PLbbLC0BLaGjpyzN1rg-gK4dUqbn8eJQq4)
 
 ## Authors
 
