@@ -11,18 +11,21 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* Node.js (Latest)
+* [Node.js (Current)](https://nodejs.org)
+* [A Discord Bot](https://discord.com/developers/applications)
 * Discord.js node module
 
 ### Installing
 
 1. Install the 'Current' Node.js from here https://nodejs.org/en/
 2. Clone/fork this repo using your preferred method e.g.
-`git clone https://github.com/ThatSameer/discord-bot-template.git`
+```bash
+git clone https://github.com/ThatSameer/discord-bot-template.git
+```
 3. Install the Discord node module by running this in the projects folder
-
-`npm install discord.js`
-
+```sh
+npm install discord.js
+```
 
 ### Executing program
 
