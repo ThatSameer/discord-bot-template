@@ -11,15 +11,15 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Node.js (Latest)
+* Discord.js Node module
 
 ### Installing
 
-* How/where to download your program
-```sh
-npm install
-```
+* Install the 'Current' Node.js from here https://nodejs.org/en/
+* Install the Discord node module by running in the project folder
+`npm install discord.js`
+
 * Any modifications needed to be made to files/folders
 
 ### Executing program
