@@ -18,6 +18,7 @@ An in-depth paragraph about your project and overview of use.
 
 * Install the 'Current' Node.js from here https://nodejs.org/en/
 * Install the Discord node module by running in the project folder
+
 `npm install discord.js`
 
 * Any modifications needed to be made to files/folders
