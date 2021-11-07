@@ -23,6 +23,7 @@ This template was made using [CodeLyon's](https://www.youtube.com/c/CodeLyon) in
 git clone https://github.com/ThatSameer/discord-bot-template.git
 ```
 **NEW:** You can now click the big green 'Use this template' button at the top of this repo!
+
 3. Install the Discord node module by running this within the projects folder
 ```bash
 npm install discord.js
