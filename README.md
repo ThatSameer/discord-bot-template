@@ -5,7 +5,7 @@ A ready made template for using a Discord bot with advanced commands/events hand
 
 ## Description
 
-This template was made using [CodeLyon's](https://www.youtube.com/c/CodeLyon) interpretation of advanced commands/events handlers.
+This template was made using [CodeLyon's](https://www.youtube.com/c/CodeLyon) method of advanced commands/events handlers.
 
 ## Getting Started
 
