@@ -4,6 +4,7 @@
 A ready made template for using a Discord bot with advanced commands/events handlers already created.
 
 ## Description
+PLEASE NOTE THIS DISCORD BOT METHOD IS NOW OLD. SLASH COMMANDS ARE NOW PREFERRED.
 
 This template was made using [CodeLyon's](https://www.youtube.com/c/CodeLyon) method of advanced commands/events handlers.
 
